@@ -1,2 +1,2 @@
-0.1.2
-https://www.icloud.com/shortcuts/5411a146e6274bb793f77be350f795c1
+0.1.3
+https://www.icloud.com/shortcuts/df9ce09958fc4847a64594b8909000f8
